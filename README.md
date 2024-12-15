@@ -22,4 +22,4 @@ A simple ATM system implemented in C that simulates basic banking operations lik
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SecureATM.git
+   git clone https://github.com/SasmithaTharushan/Secure-ATM-Application)
